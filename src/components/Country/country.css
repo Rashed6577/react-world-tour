@@ -1,0 +1,20 @@
+.country{
+    border: 2px solid skyblue;
+    padding: 15px;
+    margin: 15px;
+    border-radius: 15px;
+}
+.img{
+    width: 320px;
+    height: 200px;
+}
+.visit{
+    background-color: cadetblue;
+    color: white;
+}
+.btn{
+    margin-right: 5px;
+    margin-top: 5px;
+    background-color:gray;
+    color: white;
+}
